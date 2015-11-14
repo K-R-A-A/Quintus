@@ -1,13 +1,13 @@
 {
-  "name": "Quintus",
-  "homepage": "http://html5quintus.com",
+  "name": "Kraa-Quintus",
+  "homepage": "http://kraa.info",
   "author": {
-    "name": "Pascal Rettig",
-    "email": "html5game@cykod.com"
+    "name": "Kraa",
+    "email": "kraateam@seznam.cz"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/cykod/Quintus"
+    "url": "git://github.com/vasekric/Quintus"
   },
   "licenses": [
     {
